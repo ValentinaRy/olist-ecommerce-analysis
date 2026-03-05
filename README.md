@@ -26,3 +26,6 @@ The analysis focuses on customer retention patterns in the marketplace and explo
 2. Overview Dashboard on [Tableau Public](https://public.tableau.com/app/profile/valentina.rybnikova/viz/StudyprojectofBrazilianE-CommercePublicDatasetbyOlist/Dashboard1?publish=yes)
 3. Exploratory analysis
 4. Business conclusions and results: [Retention analysis Olist.pdf](https://github.com/ValentinaRy/olist-ecommerce-analysis/blob/main/Retention%20analysis%20Olist.pdf)
+
+## Dashboard Preview from Tableau Public
+<img width="1390" height="898" alt="image" src="https://github.com/user-attachments/assets/70d7cc72-6daf-429a-8560-75ade2163802" />
