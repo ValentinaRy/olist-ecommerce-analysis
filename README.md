@@ -1,20 +1,27 @@
 # Olist E-commerce Retention Analysis
-A study project to analyze and evaluate data from [Brazilian E-Commerce Public Dataset by Olist published on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_order_items_dataset.csv).
+This is a study project by Valentina Rybnikova using data from the [Brazilian E-Commerce Public Dataset by Olist published on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_order_items_dataset.csv). The goal of this project is to practice and demonstrate the candidate’s analytical skills.
+The analysis focuses on customer retention patterns in the marketplace and explores possible structural reasons for low repeat purchase rates.
 
-Exploratory and business analysis of the Olist Brazilian e-commerce dataset.
+## Main objectives of the project
+- initial analysis of the provided dataset
+- creation of an order-level aggregated dataset
+- creation of an Overview Dashboard in Tableau Public
+- further exploratory and business analysis
+- retention rate analysis
+- presentation of results
 
-Tools:
-Python (Pandas)
-Tableau
-Jupyter Notebook
+## Tools
+- Python (pandas, numpy, matplotlib)
+- Jupyter Notebook
+- Tableau Public
 
-Key findings:
-• 97% of customers make only one order
-• Repeat orders account for ~3% of monthly orders
-• Repeat AOV is slightly lower than first orders
-• Low retention appears structural due to product mix
+## Key findings
+- 97% of customers make only one order
+- Repeat orders account for ~3% of monthly orders
+- Repeat AOV is slightly lower than the AOV of first orders
+- Low retention appears structural due to the marketplace product mix
 
-Project structure:
+## Project structure
 1. Data preparation
 2. Overview Dashboard on [Tableau Public](https://public.tableau.com/app/profile/valentina.rybnikova/viz/StudyprojectofBrazilianE-CommercePublicDatasetbyOlist/Dashboard1?publish=yes)
 3. Exploratory analysis
