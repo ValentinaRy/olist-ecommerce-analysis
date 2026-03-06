@@ -24,7 +24,7 @@ The analysis focuses on customer retention patterns in the marketplace and explo
 ## Project structure
 1. Data preparation: [Olist_data_preparation.ipynb](https://github.com/ValentinaRy/olist-ecommerce-analysis/blob/main/Olist_data_preparation.ipynb)
 2. Overview Dashboard on [Tableau Public](https://public.tableau.com/app/profile/valentina.rybnikova/viz/StudyprojectofBrazilianE-CommercePublicDatasetbyOlist/Dashboard1?publish=yes)
-3. Exploratory analysis
+3. Exploratory analysis: [Olist_data_analysis.ipynb](https://github.com/ValentinaRy/olist-ecommerce-analysis/blob/main/Olist_data_analysis.ipynb)
 4. Business conclusions and results: [Retention analysis Olist.pdf](https://github.com/ValentinaRy/olist-ecommerce-analysis/blob/main/Retention%20analysis%20Olist.pdf)
 
 ## Dashboard Preview from Tableau Public
