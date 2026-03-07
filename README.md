@@ -1,6 +1,7 @@
 # Olist E-commerce Retention Analysis
 This is a study project by Valentina Rybnikova using data from the [Brazilian E-Commerce Public Dataset by Olist published on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_order_items_dataset.csv). The goal of this project is to practice and demonstrate the candidate’s analytical skills.
 The analysis focuses on customer retention patterns in the marketplace and explores possible structural reasons for low repeat purchase rates.
+
 [My LinkedIn](https://www.linkedin.com/in/valentina-rybnikova-900720209/)
 
 ## Main objectives of the project
